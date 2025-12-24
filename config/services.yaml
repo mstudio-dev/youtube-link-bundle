@@ -1,0 +1,4 @@
+services:
+    Mstudio\ContentElement\YoutubeLink:
+        tags:
+            - { name: contao.content_element, category: mstudio, type: youtube_link }
