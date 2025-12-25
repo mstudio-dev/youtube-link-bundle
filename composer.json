@@ -1,8 +1,16 @@
 {
     "name": "mstudio/youtube-link-bundle",
-    "description": "Contao Inhaltselement: YouTube Link mit Thumbnail",
+    "description": "Contao 5 Inhaltselement: YouTube Link mit Thumbnail und Overlay.",
     "type": "contao-bundle",
     "license": "MIT",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Markus Schnagl",
+            "email": "mail@mstudio.de",
+            "homepage": "https://mstudio.de"
+        }
+    ],
     "autoload": {
         "psr-4": {
             "Mstudio\\": "src/"
