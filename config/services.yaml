@@ -1,4 +1,8 @@
 services:
+    _defaults:
+        autowire: true
+        autoconfigure: true
+
     Mstudio\ContentElement\YoutubeLink:
         tags:
-            - { name: contao.content_element, category: mstudio, type: youtube_link }
+            - { name: contao.content_element, category: media, type: youtube_link }
