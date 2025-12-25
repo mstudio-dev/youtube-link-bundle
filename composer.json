@@ -3,7 +3,7 @@
     "description": "Contao 5 Inhaltselement: YouTube Link mit Thumbnail und Overlay.",
     "type": "contao-bundle",
     "license": "MIT",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "authors": [
         {
             "name": "Markus Schnagl",
